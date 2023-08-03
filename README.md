@@ -18,6 +18,7 @@ and drug development research.
 Please refer to the provided datasets folder for more details.
 
 ## citation
+If you find this project useful and want to cite it in your work, you can use the following information:
 ```bibtex
 @article{dhakal2023ensemble,
   title={An ensemble of stacking classifiers for improved prediction of miRNA-mRNA interactions},
