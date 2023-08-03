@@ -18,6 +18,7 @@ and drug development research.
 Please refer to the provided datasets folder for more details.
 
 ## citation
+```bibtex
 @article{dhakal2023ensemble,
   title={An ensemble of stacking classifiers for improved prediction of miRNA-mRNA interactions},
   author={Dhakal, Priyash and Tayara, Hilal and Chong, Kil To},
